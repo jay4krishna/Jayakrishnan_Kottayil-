@@ -1,0 +1,27 @@
+button{
+    background: blue;
+    color:whitesmoke;
+}
+
+#para1{
+    color:hotpink;
+}
+#para2
+{
+    color:indigo;
+}
+
+div{
+    width: 300px;
+    height:200px;
+    background:greenyellow;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    border: 3px solid;
+    border-color: rgb(24, 8, 235);
+}
+.white{
+    color: #fff;
+}
